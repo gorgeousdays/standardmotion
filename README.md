@@ -44,4 +44,7 @@ This project uses [Python](https://www.python.org/) (v3.6 or higher)  and [openp
    fbs run
    ```
 
-
+## To do
+1. 优化代码逻辑部分 整合软件的两种启动模式
+2. 为按钮与界面增加Qss样式
+3. 解决上传文件与开始检测的冲突问题
